@@ -1,0 +1,2 @@
+# HeroSMP
+Minecraft 1.12.2 Super Heroes SMP
